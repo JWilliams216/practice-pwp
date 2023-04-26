@@ -1,17 +1,20 @@
 /*************
 ****Colors****
 *************/
-
+.black {
+    background-color: #000000
+}
 .blue1 {
     color: #B0CCE1
 }
 
 .blue2 {
-    background-color: #AFD2F0
+    background-color: #aed8fb
+    /*background-color: #AFD2F0*/
 }
 
 .orange1 {
-    background-color: #FFB83F
+    background-color: #f9c161
 }
 
 .orange2 {
@@ -19,7 +22,11 @@
 }
 
 .purple1 {
-    background-color: #7979df
+    background-color: #8b8bf2
+}
+
+.purple2 {
+    background-color: #cc9ef4
 }
 
 .blue200 {
@@ -70,7 +77,7 @@
 }
 
 .teal400 {
-    background-color: #41CEA3
+    background-color: #6ff4cb
 }
 
 .teal500 {
@@ -79,6 +86,9 @@
 
 .yellow300 {
     background-color: #FBD569
+}
+.yellow350 {
+    border-color: #FBD569
 }
 
 .yellow400 {
