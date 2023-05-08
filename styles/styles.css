@@ -7,6 +7,10 @@
 /*************
 ****Colors****
 *************/
+.active {
+    background-color: #8b8bf2 !important;
+}
+
 .black {
     background-color: #000000
 }
